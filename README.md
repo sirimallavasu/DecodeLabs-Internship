@@ -1,15 +1,26 @@
-# DecodeLabs-Internship
-Projects completed during Decode Labs Data Analytics Internship.
-# DecodeLabs Internship
+## Completed Projects
 
-This repository contains projects completed during my Data Analytics Internship at Decode Labs.
+### Project-1
 
-## Intern Details
-Name: Sirimalla Vasu
-Track: Data Analytics
-Batch: 2026
+ Data Cleaning and Preparation (Completed)
 
-## Projects
-- Project 1: Data Cleaning & Preparation (Completed)
+### Project-2
 
-More projects will be added as the internship progresses.
+  Exploratory Data Analysis (Completed)
+
+## Technologies Used
+
+ Microsoft Excel
+ Google Sheets
+ Data Cleaning
+ Exploratory Data Analysis
+
+## Internship Details
+
+Name : Sirimalla Vasu
+
+Track : Data Analytics
+
+Organization : Decode Labs
+
+Batch : 2026
