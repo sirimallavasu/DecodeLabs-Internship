@@ -23,6 +23,11 @@ To perform Exploratory Data Analysis on an E-Commerce dataset and identify meani
   Most Used Payment Method
   Most Used Coupon Code
   Most Common Order Status
+## Files included
+
+  Exploratory Data Analysis sheet
+  Project Report 
+  Project Screenshots
 
 ## Conclusion
 
